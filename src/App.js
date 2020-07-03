@@ -5,7 +5,7 @@ import Nabla from "./components/Nabla";
 import Slider from "./components/Slider";
 import Feed from "./components/Feed";
 import Main from "./components/Main";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
